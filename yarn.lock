@@ -5,6 +5,7 @@ __metadata:
   version: 8
   cacheKey: 10
 
+
 "lodash@npm:^4.17.1":
   version: 4.17.2
   resolution: "lodash@npm:4.17.2::__archiveUrl=https%3A%2F%2Fjfrogghdemo.jfrog.io%2Fartifactory%2Fapi%2Fnpm%2Fdb-dependabot-local%2Flodash-4.17.2.tgz"
